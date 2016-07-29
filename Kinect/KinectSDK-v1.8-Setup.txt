@@ -1,5 +1,1 @@
-Ich kann die Datei (KinectSDK-v1.8-Setup) nicht hochladen, da Sie für Github zu groß ist. 
-
-Ihr müsstet Sie aber recht einfach finden wenn Ihr danach googelt. 
-
-Ladet Sie einfach runter und führt Sie aus um alle nötigen Treiber für die Kinect zu installieren.
+Die Datei war leider zu groß um sie hier hochzuladen. Ihr findet Sie in der Dropbox.
